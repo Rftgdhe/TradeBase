@@ -1,0 +1,44 @@
+D:\4is2\Naumov A\Подготовка к демоэкзамену\StoloviePribori\StoloviePribori\bin\Debug\StoloviePribori.exe.config
+D:\4is2\Naumov A\Подготовка к демоэкзамену\StoloviePribori\StoloviePribori\bin\Debug\StoloviePribori.exe
+D:\4is2\Naumov A\Подготовка к демоэкзамену\StoloviePribori\StoloviePribori\bin\Debug\StoloviePribori.pdb
+D:\4is2\Naumov A\Подготовка к демоэкзамену\StoloviePribori\StoloviePribori\obj\Debug\StoloviePribori.csprojAssemblyReference.cache
+D:\4is2\Naumov A\Подготовка к демоэкзамену\StoloviePribori\StoloviePribori\obj\Debug\Resourses\Dictionary1.baml
+D:\4is2\Naumov A\Подготовка к демоэкзамену\StoloviePribori\StoloviePribori\obj\Debug\Authorization.g.cs
+D:\4is2\Naumov A\Подготовка к демоэкзамену\StoloviePribori\StoloviePribori\obj\Debug\Registration.g.cs
+D:\4is2\Naumov A\Подготовка к демоэкзамену\StoloviePribori\StoloviePribori\obj\Debug\App.g.cs
+D:\4is2\Naumov A\Подготовка к демоэкзамену\StoloviePribori\StoloviePribori\obj\Debug\StoloviePribori_MarkupCompile.cache
+D:\4is2\Naumov A\Подготовка к демоэкзамену\StoloviePribori\StoloviePribori\obj\Debug\StoloviePribori_MarkupCompile.lref
+D:\4is2\Naumov A\Подготовка к демоэкзамену\StoloviePribori\StoloviePribori\obj\Debug\App.baml
+D:\4is2\Naumov A\Подготовка к демоэкзамену\StoloviePribori\StoloviePribori\obj\Debug\Authorization.baml
+D:\4is2\Naumov A\Подготовка к демоэкзамену\StoloviePribori\StoloviePribori\obj\Debug\Registration.baml
+D:\4is2\Naumov A\Подготовка к демоэкзамену\StoloviePribori\StoloviePribori\obj\Debug\StoloviePribori.g.resources
+D:\4is2\Naumov A\Подготовка к демоэкзамену\StoloviePribori\StoloviePribori\obj\Debug\StoloviePribori.Properties.Resources.resources
+D:\4is2\Naumov A\Подготовка к демоэкзамену\StoloviePribori\StoloviePribori\obj\Debug\StoloviePribori.csproj.GenerateResource.cache
+D:\4is2\Naumov A\Подготовка к демоэкзамену\StoloviePribori\StoloviePribori\obj\Debug\StoloviePribori.csproj.CoreCompileInputs.cache
+D:\4is2\Naumov A\Подготовка к демоэкзамену\StoloviePribori\StoloviePribori\obj\Debug\StoloviePribori.exe
+D:\4is2\Naumov A\Подготовка к демоэкзамену\StoloviePribori\StoloviePribori\obj\Debug\StoloviePribori.pdb
+D:\4IS2\Naumov A\StoloviePribori\StoloviePribori\obj\Debug\StoloviePribori.csprojAssemblyReference.cache
+D:\4IS2\Naumov A\StoloviePribori\StoloviePribori\obj\Debug\Resourses\Dictionary1.baml
+D:\4IS2\Naumov A\StoloviePribori\StoloviePribori\obj\Debug\Authorization.g.cs
+D:\4IS2\Naumov A\StoloviePribori\StoloviePribori\obj\Debug\MainWindow.g.cs
+D:\4IS2\Naumov A\StoloviePribori\StoloviePribori\obj\Debug\App.g.cs
+D:\4IS2\Naumov A\StoloviePribori\StoloviePribori\obj\Debug\StoloviePribori_Content.g.cs
+D:\4IS2\Naumov A\StoloviePribori\StoloviePribori\obj\Debug\StoloviePribori_MarkupCompile.cache
+D:\4IS2\Naumov A\StoloviePribori\StoloviePribori\obj\Debug\StoloviePribori_MarkupCompile.lref
+D:\4IS2\Naumov A\StoloviePribori\StoloviePribori\obj\Debug\StoloviePribori.exe
+D:\4IS2\Naumov A\StoloviePribori\StoloviePribori\obj\Debug\StoloviePribori.pdb
+D:\4IS2\Naumov A\StoloviePribori\StoloviePribori\bin\Debug\StoloviePribori.exe.config
+D:\4IS2\Naumov A\StoloviePribori\StoloviePribori\bin\Debug\StoloviePribori.exe
+D:\4IS2\Naumov A\StoloviePribori\StoloviePribori\bin\Debug\StoloviePribori.pdb
+D:\4IS2\Naumov A\StoloviePribori\StoloviePribori\bin\Debug\EntityFramework.dll
+D:\4IS2\Naumov A\StoloviePribori\StoloviePribori\bin\Debug\EntityFramework.SqlServer.dll
+D:\4IS2\Naumov A\StoloviePribori\StoloviePribori\bin\Debug\EntityFramework.xml
+D:\4IS2\Naumov A\StoloviePribori\StoloviePribori\bin\Debug\EntityFramework.SqlServer.xml
+D:\4IS2\Naumov A\StoloviePribori\StoloviePribori\obj\Debug\App.baml
+D:\4IS2\Naumov A\StoloviePribori\StoloviePribori\obj\Debug\Authorization.baml
+D:\4IS2\Naumov A\StoloviePribori\StoloviePribori\obj\Debug\MainWindow.baml
+D:\4IS2\Naumov A\StoloviePribori\StoloviePribori\obj\Debug\StoloviePribori.g.resources
+D:\4IS2\Naumov A\StoloviePribori\StoloviePribori\obj\Debug\StoloviePribori.Properties.Resources.resources
+D:\4IS2\Naumov A\StoloviePribori\StoloviePribori\obj\Debug\StoloviePribori.csproj.GenerateResource.cache
+D:\4IS2\Naumov A\StoloviePribori\StoloviePribori\obj\Debug\StoloviePribori.csproj.CoreCompileInputs.cache
+D:\4IS2\Naumov A\StoloviePribori\StoloviePribori\obj\Debug\StoloviePribori.csproj.CopyComplete

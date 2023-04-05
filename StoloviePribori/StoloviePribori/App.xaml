@@ -1,0 +1,16 @@
+﻿<Application x:Class="StoloviePribori.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:StoloviePribori"
+             StartupUri="Authorization.xaml">
+    <Application.Resources>
+        <Brush x:Key="FocusColor">#FFFFFF</Brush>
+        <Brush x:Key="DopColor">#76E671</Brush>
+        <Brush x:Key="AkcColor">#498C51</Brush>
+        
+        <Style  TargetType="Label">
+            <Setter Property="FontFamily" Value="Comic Sans MS" />
+        </Style>
+
+    </Application.Resources>
+</Application>

@@ -1,0 +1,66 @@
+﻿<Window x:Class="StoloviePribori.Authorization"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StoloviePribori"
+        mc:Ignorable="d"
+        Title="Авторизация" Height="400" Width="420"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        MouseLeftButtonDown="Window_MouseLeftButtonDown"
+        Background="Transparent">
+
+    <Border CornerRadius="20" Background="{StaticResource FocusColor}">
+
+        <Grid Height="400" VerticalAlignment="Top">
+            <StackPanel >
+                <DockPanel>
+                    <Label Content="Авторизация" HorizontalAlignment="Center" FontSize="20"/>
+                </DockPanel>
+
+                <DockPanel Margin="0,5,0,15">
+                    <Label Content="Логин  " HorizontalAlignment="Left"  VerticalAlignment="Top"  Height="27"/>
+                    <TextBox x:Name="LoginTextBox" HorizontalAlignment="Left" Height="23"  TextWrapping="Wrap" VerticalAlignment="Top" Width="321"/>
+                </DockPanel>
+
+                <DockPanel Margin="0,5,0,15">
+                    <Label Content="Пароль" HorizontalAlignment="Left"  VerticalAlignment="Top"  Height="26"/>
+                    <TextBox x:Name="PasswordPasswordBox" HorizontalAlignment="Left" Height="23"   Width="320"/>
+                </DockPanel>
+
+
+                <DockPanel Margin="0,5,0,0">
+                    <Label Content="Капча" HorizontalAlignment="Left"  VerticalAlignment="Top" RenderTransformOrigin="0.535,1.231"/>
+                    <Image x:Name="CapchaImage" HorizontalAlignment="Left" Margin="10,5,0,0" Height="100" VerticalAlignment="Top" Width="182"/>
+
+                    <Button x:Name="ChangeCaptchaButton" Content="Сменить" Width="75" VerticalAlignment="Top" Height="22"  TabIndex="4" Click=" ChangeCaptchaButton_Click"/>
+                    
+                </DockPanel>
+                <DockPanel>
+                    <Label Content="Текст капчи" HorizontalAlignment="Left" VerticalAlignment="Top" />
+                    <TextBox x:Name="CaptchaTextBox"  Height="23"  TextWrapping="Wrap"  Width="244"/>
+                    
+                </DockPanel>
+                <DockPanel Height="25" Margin="0,14,0,0" LastChildFill="False">
+                    <Button Content="Ок"   
+                            DockPanel.Dock="Right"  
+                            VerticalAlignment="Top" Width="75" 
+                    Click="OkButton_Click" />
+                    <Button Content="Отмена" 
+                            DockPanel.Dock="Right" 
+                            VerticalAlignment="Top" Width="75" 
+                    Click="CloseButton_Click" />
+                </DockPanel>
+            </StackPanel>
+            
+            
+            
+           
+            <StackPanel Visibility="Collapsed">
+               
+            </StackPanel>
+
+        </Grid>
+    </Border>
+</Window>
